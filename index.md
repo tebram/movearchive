@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: 'movearchive'
-  pid: 'object9'
+  pid: 'object10'
   y: 25%
   height: '500px'
 ---
@@ -14,4 +14,4 @@ The collection items in this demo are from [Temple University Digital Archives] 
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='medium' collection='movearchive' %}
