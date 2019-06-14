@@ -131,6 +131,21 @@ layout: none
     "lunr_id": 7
   },
   {
+    "pid": "object7 ",
+    "artist": "Undocumented",
+    "location": "309 N. 33rd Street",
+    "medium": "image",
+    "_date": "March 16, 1978",
+    "original source": "PEB",
+    "source title": "MOVE Blockade Broken",
+    "source description": "Philadelphia police officer is startled as elderly woman walked past barricade and hands papers bag of supplies tup to members of MOVE.",
+    "figures present": "",
+    "archive": "TU DA",
+    "collection": "movearchive",
+    "permalink": "/movearchive/object7 ",
+    "lunr_id": 8
+  },
+  {
     "pid": "object8",
     "artist": "Bulletin Staff",
     "location": "309 N. 33rd Street",
@@ -144,7 +159,7 @@ layout: none
     "collection": "movearchive",
     "thumbnail": "/img/derivatives/iiif/images/object8/full/250,/0/default.jpg",
     "permalink": "/movearchive/object8",
-    "lunr_id": 8
+    "lunr_id": 9
   },
   {
     "pid": "object9",
@@ -160,6 +175,21 @@ layout: none
     "collection": "movearchive",
     "thumbnail": "/img/derivatives/iiif/images/object9/full/250,/0/default.jpg",
     "permalink": "/movearchive/object9",
-    "lunr_id": 9
+    "lunr_id": 10
+  },
+  {
+    "pid": "object9 ",
+    "artist": "Jon Falk ",
+    "location": "309 N. 33rd Street",
+    "medium": "image",
+    "_date": "",
+    "original source": "",
+    "source title": "",
+    "source description": "",
+    "figures present": "",
+    "archive": "",
+    "collection": "movearchive",
+    "permalink": "/movearchive/object9 ",
+    "lunr_id": 11
   }
 ]

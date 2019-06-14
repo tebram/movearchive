@@ -13,9 +13,9 @@ layout: none
       "label": "object1"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/object10/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/object2/manifest.json",
       "@type": "sc:Manifest",
-      "label": "object10"
+      "label": "object2"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/object3/manifest.json",
