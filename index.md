@@ -14,4 +14,4 @@ The collection items in this demo are from Temple University Digital Archives an
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='medium' collection='movearchive' %}
+{% include collection_gallery.html facet_by='artist' collection='movearchive' %}

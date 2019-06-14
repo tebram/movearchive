@@ -1,20 +1,21 @@
 ---
 pid: object5
-artist: ''
-location: ''
+label: Image 5
+artist: 
+location: 
 medium: image
 _date: May 29, 1977
-original source: ''
-source title: ''
+original source: 
+source title: 
 source description: MOVE member holds child near home.
 figures present: 'Debbie Africa and Janine Africa '
 archive: TUDA
-social analysis: ''
-geographic & landscape analysis: ''
-order: '04'
+social analysis: 
+geographic & landscape analysis: 
+order: '4'
 layout: movearchive_item
 collection: movearchive
-thumbnail: "/img/derivatives/iiif/images/object5/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/object5/full/full/0/default.jpg"
+thumbnail: img/derivatives/simple/object5/thumbnail.jpg
+full: img/derivatives/simple/object5/full.jpg
 manifest: "/img/derivatives/iiif/object5/manifest.json"
 ---
